@@ -1,6 +1,6 @@
-## Tsahz 的 旅途
+## Tsahz
 
-You can use the [editor on GitHub](https://github.com/Tsahz/Tsahz.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+这是我第一次使用github处理自己的网页
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
