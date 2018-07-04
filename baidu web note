@@ -1,6 +1,20 @@
-课程目标：
-什么是Web? 什么是HTML、CSS、javascript？
-答：Web就是在Http协议的基础上利用浏览器访问的网站。
-什么是HTML.CSS.javascript?
-答：HTML，超文本标记语言，通俗的讲，日常所有的网站浏览都要通过HTML进行访问，把计算机懂的语言转化为视图界面。
-   CSS，层叠样式表，用来修饰HTML，使它变得更美化好看。
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>IEF学习</title>
+</head>
+<body>
+<h1>IFE学习之路</h1>
+<P>IEF第一天的学习<br>
+   课程目标：什么是Web?什么是HTML.CSS.javascript?</p>
+<ol>
+     <li>什么是Web? </li>
+     <li>答：Web就是在Http协议的基础上利用浏览器访问的网站。</li>
+     <li>什么是HTML.CSS.javascript?</li>
+     <li>答：HTML，超文本标记语言，通俗的讲，日常所有的网站浏览都要通过HTML进行访问，把计算机懂的语言转化为视图界面。</li>
+     <li>CSS是层叠样式表，用来修饰HTML，使它变得更美化好看。</li>
+     <li>javascript是动态功能，例如鼠标移到一个内容，内容会跳出来一个框。</li>
+</ol>
+</body>
+</html>
